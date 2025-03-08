@@ -24,7 +24,7 @@ class Couch extends Furniture{
 	}
 }
 
-class Dishwasher extends Furniture{
+class Table extends Furniture{
 	void Function(){
 		System.out.println("Table is used to gather family members around to eat a meal.");
 	}
